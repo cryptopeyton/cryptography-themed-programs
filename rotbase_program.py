@@ -65,12 +65,7 @@ def decode_base64_text():
     print(decoded_ascii_text)
     return decoded_ascii_text
 
-
-#  for def main(), do the rot13 sequence first, then put the var of the rot13 into the base64 sequence, you main have to
-#  include parameters for the base64 code to do, so that instead of the input you put a variable for the sequence. 
-#  or go b64 first followed by the rot13 and adding the b64 text into the
-#  rot13 function, or we could just make it one big joint, idk.
-
+#  main()
 def main():
     # use upper() to convert char
     choice = int(input("1. Encryption\n2. Decryption\nChoose(1, 2): "))
