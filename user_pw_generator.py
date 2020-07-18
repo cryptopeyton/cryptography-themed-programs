@@ -1,3 +1,7 @@
+# Peyton Thomas
+# username and password generator
+
+
 import string
 from random import *
 # counter for the loop
