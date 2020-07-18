@@ -1,4 +1,4 @@
-# Cryptograhy Themed Programs
+# My python programs
 
 Each of these programs are written by me, and display my skills of an amateur programmer. 
 
